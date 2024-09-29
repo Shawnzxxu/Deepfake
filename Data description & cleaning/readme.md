@@ -1,4 +1,4 @@
-# Data Description & Cleaning
+# Data Description & Preprocessing
 
 This folder contains Jupyter Notebooks that detail the processes of data description, cleaning, and visualization for a dataset related to deepfake discussions on Reddit. The dataset has been carefully curated and prepared for analysis, with a focus on ensuring data quality and extracting meaningful insights.
 
