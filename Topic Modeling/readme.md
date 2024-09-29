@@ -16,15 +16,15 @@ This repository contains a Jupyter Notebook that performs topic modeling on a gi
 To run the notebook successfully, you will need the following Python libraries installed in your environment:
 
 - pandas
-- numpy
-- nltk
 - gensim
 - matplotlib
-- sklearn
+- nltk
+- pyLDAvis
 
 You can install these dependencies using pip:
 
-pip install pandas numpy nltk gensim matplotlib sklearn
+pip install pandas gensim matplotlib nltk pyLDAvis
+
 
 3. **Run the cells**:
 
