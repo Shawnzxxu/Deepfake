@@ -26,7 +26,7 @@ You can install these dependencies using pip:
 
 pip install pandas numpy nltk gensim matplotlib sklearn
 
-3. **Run the cells**:
+**Run the cells**:
 
 Follow the instructions in the notebook to run each cell. The notebook is designed to be run sequentially, from data loading to final analysis.
 
