@@ -36,8 +36,15 @@ The notebook provides a comprehensive analysis of the topics found in the datase
 
 - A list of the most significant topics identified by the model.
 - Visualizations that illustrate the topic distribution across the documents.
-- Word clouds for each topic to give a better understanding of the most relevant words.
+- Bar charts for each topic to give a better understanding of the most relevant words.
 
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements or additions to the code or documentation.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
