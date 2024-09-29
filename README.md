@@ -11,8 +11,8 @@ This repository contains data, analysis, and insights derived from Reddit discus
 
 ### Notebooks
 
-- **Data cleaning.ipynb**: Details the data cleaning process applied to the raw Reddit dataset, including removing duplicates, handling missing values, tokenizing text, and lemmatization. The processed data is saved for subsequent analysis.
-- **Data distribution.ipynb**: Provides an exploratory data analysis (EDA) of the cleaned dataset, visualizing the distribution of posts and comments across time, especially focusing on the number of samples per quarter.
+- **Data Preprocessing.ipynb**: Details the data cleaning process applied to the raw Reddit dataset, including removing duplicates, handling missing values, tokenizing text, and lemmatization. The processed data is saved for subsequent analysis.
+- **Data Distribution.ipynb**: Provides an exploratory data analysis (EDA) of the cleaned dataset, visualizing the distribution of posts and comments across time, especially focusing on the number of samples per quarter.
 - **Topic Modeling.ipynb**: Applies Latent Dirichlet Allocation (LDA) for topic modeling. It identifies and categorizes the main discussion topics from the Reddit posts related to deepfake technology.
 - **Sentiment Analysis.ipynb**: Sentiment analysis is performed using two methods, TextBlob and VADER. This notebook explains how sentiment is classified into positive, negative, and neutral categories.
 - **Wordcloud.ipynb**: Generates word clouds for each sentiment category (positive, negative, neutral) to visually represent the most frequently discussed words in the dataset.
@@ -22,6 +22,8 @@ This repository contains data, analysis, and insights derived from Reddit discus
 ### Data Source
 
 - The dataset was collected using the Apify tool, scraping posts and comments from Reddit between May 2019 and May 2024, resulting in 20,458 entries. After preprocessing, 17,720 entries remained for analysis.
+
+![Overview of the Proposed Framework](![image](https://github.com/user-attachments/assets/4a9f8ef2-8d8c-4a10-9d6e-7a4577041cf0))
 
 ## Key Figures from the Analysis
 
