@@ -4,7 +4,7 @@ This folder contains Jupyter Notebooks that detail the processes of data descrip
 
 ## Files in this Folder
 
-### 1. Data cleaning.ipynb
+### 1. Data Preprocessing.ipynb
    - **Description**: This notebook contains the data cleaning procedures applied to the deepfake-related dataset. The cleaning process includes:
      - **Removing duplicates**: Ensuring that each record is unique.
      - **Handling missing values**: Addressing any gaps in the data fields, such as filling in missing values or removing incomplete records.
@@ -13,7 +13,7 @@ This folder contains Jupyter Notebooks that detail the processes of data descrip
      - **Validating URLs**: Checking the correctness of URLs to ensure they link back to the appropriate Reddit posts or comments.
    - **Purpose**: The purpose of this notebook is to prepare the data for subsequent analysis by ensuring it is clean, consistent, and ready for use.
 
-### 2. Data distribution.ipynb
+### 2. Data Distribution.ipynb
     - **Visualizing the distribution**: Create a bar chart to illustrate the distribution of sample quantities.
      - **Analyzing trends**: Identifying any notable trends or patterns in the data.
    - **Purpose**: The purpose of this notebook is to provide a visual and statistical overview of the data distribution, helping to identify patterns and insights that may inform further analysis.
