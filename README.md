@@ -23,7 +23,6 @@ This repository contains data, analysis, and insights derived from Reddit discus
 
 - The dataset was collected using the Apify tool, scraping posts and comments from Reddit between May 2019 and May 2024, resulting in 20,458 entries. After preprocessing, 17,720 entries remained for analysis.
 
-![Overview of the Proposed Framework](C:/Users/AAA/Desktop/123.png)
 
 ## Key Figures from the Analysis
 
