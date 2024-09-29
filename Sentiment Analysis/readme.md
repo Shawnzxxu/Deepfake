@@ -16,16 +16,19 @@ This repository contains a Jupyter Notebook that performs sentiment analysis on 
 To run the notebook successfully, you will need the following Python libraries installed in your environment:
 
 - pandas
-- numpy
-- nltk
-- scikit-learn
+- gensim
 - matplotlib
-- seaborn
-- tensorflow or pytorch (depending on the model used)
+- nltk
+- textblob
+- vaderSentiment
+- wordcloud
+- Pillow
+- numpy
 
 You can install these dependencies using pip:
 
-pip install pandas numpy nltk scikit-learn matplotlib seaborn tensorflow
+pip install pandas gensim matplotlib nltk textblob vaderSentiment wordcloud Pillow numpy
+
 
 
 3. **Run the cells**:
