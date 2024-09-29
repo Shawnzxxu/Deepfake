@@ -8,7 +8,7 @@ This repository contains a dataset of Reddit posts and comments related to deepf
 - **Data Source**: Reddit (via Apify - https://apify.com/)
 - **Data Type**: JSON
 - **Sample Size**: 20458 records (including posts and comments)
-
+--------------------------------------------------
 - **Filename**: `Processed_deepfake.json`
 - **Data Source**: Reddit (via Apify - https://apify.com/)
 - **Data Type**: JSON
