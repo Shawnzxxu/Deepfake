@@ -3,7 +3,7 @@
 This repository contains a dataset of Reddit posts and comments related to deepfake technology. The data was scraped using the Apify tool, specifically targeting discussions surrounding deepfake technology on Reddit. The dataset is intended for research and analysis purposes, particularly in the fields of natural language processing, sentiment analysis, and social media analysis.
 
 ## Dataset Overview
-
+--------------------------------------------------
 - **Filename**: `Deepfake_orignal.json`
 - **Data Source**: Reddit (via Apify - https://apify.com/)
 - **Data Type**: JSON
@@ -13,7 +13,7 @@ This repository contains a dataset of Reddit posts and comments related to deepf
 - **Data Source**: Reddit (via Apify - https://apify.com/)
 - **Data Type**: JSON
 - **Sample Size**: 17720 records (including posts and comments)
-
+--------------------------------------------------
 ### Content of the Dataset
 
 The dataset includes the following fields for each Reddit post/comment:
