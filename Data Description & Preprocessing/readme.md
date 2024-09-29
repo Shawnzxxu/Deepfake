@@ -14,8 +14,8 @@ This folder contains Jupyter Notebooks that detail the processes of data descrip
    - **Purpose**: The purpose of this notebook is to prepare the data for subsequent analysis by ensuring it is clean, consistent, and ready for use.
 
 ### 2. Data Distribution.ipynb
-    - **Visualizing the distribution**: Create a bar chart to illustrate the distribution of sample quantities.
-     - **Analyzing trends**: Identifying any notable trends or patterns in the data.
+   - **Visualizing the distribution**: Create a bar chart to illustrate the distribution of sample quantities.
+   - **Analyzing trends**: Identifying any notable trends or patterns in the data.
    - **Purpose**: The purpose of this notebook is to provide a visual and statistical overview of the data distribution, helping to identify patterns and insights that may inform further analysis.
 
 ### 3. Wordcloud.ipynb
