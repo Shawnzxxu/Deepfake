@@ -29,6 +29,19 @@ This folder contains Jupyter Notebooks that detail the processes of data descrip
 
 To use these notebooks, clone the repository to your local machine and ensure that you have all the necessary Python libraries installed. Each notebook is designed to be run sequentially, starting with data cleaning, followed by data distribution analysis, and concluding with word cloud generation.
 
+## Dependencies
+
+To run the notebook successfully, you will need the following Python libraries installed in your environment:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- wordcloud
+- nltk
+- scikit-learn
+
+You can install these dependencies using pip:
 
 pip install pandas numpy matplotlib seaborn wordcloud nltk scikit-learn
 
