@@ -32,3 +32,14 @@ To use these notebooks, clone the repository to your local machine and ensure th
 
 pip install pandas numpy matplotlib seaborn wordcloud nltk scikit-learn
 
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements or additions to the code or documentation.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out at zxxu@gzist.edu.cn.
