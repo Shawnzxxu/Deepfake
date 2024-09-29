@@ -14,9 +14,8 @@ This folder contains Jupyter Notebooks that detail the processes of data descrip
    - **Purpose**: The purpose of this notebook is to prepare the data for subsequent analysis by ensuring it is clean, consistent, and ready for use.
 
 ### 2. Data distribution.ipynb
-   - **Description**: This notebook provides an exploratory data analysis (EDA) of the cleaned dataset, focusing on understanding the distribution of the data. Key tasks include:
-     - **Visualizing the distribution**: Creating various plots and charts to illustrate the distribution of key data fields such as the number of upvotes, number of replies, and the frequency of posts over time.
-     - **Analyzing trends**: Identifying any notable trends or patterns in the data, such as spikes in deepfake-related discussions during specific time periods or within certain subreddit communities.
+    - **Visualizing the distribution**: Create a bar chart to illustrate the distribution of sample quantities.
+     - **Analyzing trends**: Identifying any notable trends or patterns in the data.
    - **Purpose**: The purpose of this notebook is to provide a visual and statistical overview of the data distribution, helping to identify patterns and insights that may inform further analysis.
 
 ### 3. Wordcloud.ipynb
@@ -33,17 +32,17 @@ To use these notebooks, clone the repository to your local machine and ensure th
 
 To run the notebook successfully, you will need the following Python libraries installed in your environment:
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- wordcloud
 - nltk
-- scikit-learn
+- spellchecker
+- pandas
+- matplotlib
+- numpy
+- stylecloud
 
 You can install these dependencies using pip:
 
-pip install pandas numpy matplotlib seaborn wordcloud nltk scikit-learn
+pip install nltk spellchecker pandas matplotlib numpy stylecloud
+
 
 ## Contributing
 
