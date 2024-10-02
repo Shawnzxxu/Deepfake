@@ -7,24 +7,24 @@ This repository contains a dataset of Reddit posts and comments related to deepf
 - **Filename**: `Deepfake_orignal.json`
 - **Data Source**: Reddit (via Apify - https://apify.com/)
 - **Data Type**: JSON
-- **Sample Size**: 20458 records (including posts and comments)
+- **Sample Size**: 20,458 records (including posts and comments)
 --------------------------------------------------
 - **Filename**: `Processed_deepfake.json`
 - **Data Source**: Reddit (via Apify - https://apify.com/)
 - **Data Type**: JSON
-- **Sample Size**: 17720 records (including posts and comments)
+- **Sample Size**: 17,720 records (including posts and comments)
 --------------------------------------------------
 ### Content of the Dataset
 
 The dataset includes the following fields for each Reddit post/comment:
 
-- `id`: Unique identifier for the Reddit comment or post.
-- `parsedId`: Parsed version of the Reddit ID.
-- `url`: Direct link to the Reddit post or comment.
-- `postId`: ID of the parent post associated with the comment.
+- `id`: Unique identifier for the Reddit comment or post. (Anonymization)
+- `parsedId`: Parsed version of the Reddit ID. (Anonymization)
+- `url`: Direct link to the Reddit post or comment. (Anonymization)
+- `postId`: ID of the parent post associated with the comment. (Anonymization)
 - `parentId`: ID of the parent comment or post.
-- `username`: The Reddit username of the author.
-- `userId`: Unique identifier for the Reddit user.
+- `username`: The Reddit username of the author. (Anonymization)
+- `userId`: Unique identifier for the Reddit user. (Anonymization)
 - `category`: The subreddit category under which the post/comment was made.
 - `communityName`: The name of the subreddit community.
 - `body`: The text content of the comment or post.
