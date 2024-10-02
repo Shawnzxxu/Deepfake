@@ -33,7 +33,7 @@ To use these notebooks, clone the repository to your local machine and ensure th
 To run the notebook successfully, you will need the following Python libraries installed in your environment:
 
 - nltk
-- spellchecker
+- pyspellchecker
 - pandas
 - matplotlib
 - numpy
@@ -41,7 +41,7 @@ To run the notebook successfully, you will need the following Python libraries i
 
 You can install these dependencies using pip:
 
-pip install nltk spellchecker pandas matplotlib numpy stylecloud
+pip install nltk pyspellchecker pandas matplotlib numpy stylecloud
 
 
 ## Contributing
