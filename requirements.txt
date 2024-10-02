@@ -1,0 +1,12 @@
+matplotlib==3.7.1
+Pillow==10.4.0
+pyLDAvis==3.4.1
+textblob==0.17.1
+numpy==1.26.4
+vaderSentiment==3.3.2
+gensim==4.3.3
+stylecloud==0.5.2
+pandas==2.2.2
+pyspellchecker==0.8.1
+nltk==3.8.1
+wordcloud==1.9.3
