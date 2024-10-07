@@ -24,19 +24,6 @@ This repository contains data, analysis, and insights derived from Reddit discus
 - The dataset was collected using the Apify tool, scraping posts and comments from Reddit between May 2019 and May 2024, resulting in 20,458 entries. After preprocessing, 17,720 entries remained for analysis.
 
 
-## Key Figures from the Analysis
-
-- **Figure 1: Overview of the Proposed Framework**: A flowchart depicting the entire analysis process, from data collection to sentiment and topic analysis.
-- **Figure 2: Word Cloud of Extracted Posts and Comments**: A visual representation of the most frequent words in the dataset.
-- **Figure 3: Example of Post and Comment in Deepfake**: Sample data entries showing typical Reddit posts and comments.
-- **Figure 4: Quarterly Sample Distribution Bar Chart**: Visualizes the distribution of data over time, highlighting the concentration of posts in 2023 and 2024.
-- **Figure 5: Coherence Score by Number of Topics**: Shows the coherence scores for different numbers of topics to determine the optimal topic number for LDA.
-- **Figure 6: Inter-topic Distance Map and Top 30 Most Relevant Terms**: Visualization of topic separation and key terms within each topic.
-- **Figure 7: Bar Chart of Word Frequency for Four Topics**: Shows the most frequent words associated with each identified topic.
-- **Figure 8: Sentiment Classification Pie Chart**: Displays the overall sentiment distribution across the dataset (46% positive, 39% negative, 15% neutral).
-- **Figure 9: Word Cloud of Positive, Negative, and Neutral Tweets**: Word clouds for each sentiment category, highlighting the key words associated with each.
-- **Figure 10: Stacked Bar Chart of Sentiment Distribution Across Four Topics**: Illustrates the sentiment distribution within each identified topic, showing the variation in public sentiment.
-
 ## Conclusion
 
 The analysis provides a comprehensive understanding of public sentiment and key discussion topics surrounding deepfake technology on Reddit. The findings emphasize the divided public opinion, with significant concerns about authenticity and legal issues, while also recognizing the potential in entertainment. This research can inform the development of legal and ethical frameworks to address the challenges posed by deepfake technology.
