@@ -20,9 +20,9 @@ The dataset includes the following fields for each Reddit post/comment:
 
 - `id`: Unique identifier for the Reddit comment or post. (Anonymization)
 - `parsedId`: Parsed version of the Reddit ID. (Anonymization)
-- `url`: Direct link to the Reddit post or comment. (Anonymization)
+- `url`: Direct link to the Reddit post or comment. 
 - `postId`: ID of the parent post associated with the comment. (Anonymization)
-- `parentId`: ID of the parent comment or post.
+- `parentId`: ID of the parent comment or post.(Anonymization)
 - `username`: The Reddit username of the author. (Anonymization)
 - `userId`: Unique identifier for the Reddit user. (Anonymization)
 - `category`: The subreddit category under which the post/comment was made.
