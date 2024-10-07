@@ -1,3 +1,5 @@
+Python: 3.10.12
+
 matplotlib==3.7.1
 Pillow==10.4.0
 pyLDAvis==3.4.1
