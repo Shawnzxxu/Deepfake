@@ -1,4 +1,4 @@
-# The Double-Edged Sword of Deepfake: Public Perception towards Deepfake through Topic modelling and Sentiment analysis on Reddit
+# Public Perception Towards Deepfake through Topic Modelling and Sentiment Analysis of Social Media Data
 
 This repository contains data, analysis, and insights derived from Reddit discussions about deepfake technology. The study aims to understand public sentiment and key discussion topics concerning deepfake technology using natural language processing (NLP) techniques such as topic modeling, sentiment analysis, and word cloud visualization.
 
